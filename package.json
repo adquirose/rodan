@@ -1,11 +1,11 @@
 {
-  "name": "portal-de-samber",
+  "name": "portal-de-sanber",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite ",
-    "build": "vite build --base=/py/portal-de-samber/",
+    "build": "vite build --base=/py/portal-de-sanber/",
     "preview": "vite preview"
   },
   "devDependencies": {

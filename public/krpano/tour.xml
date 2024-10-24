@@ -7,6 +7,7 @@
 	<include url="fs.xml" />
     <include url="skin/mapa.xml" />
 	<include url="skin/vtourskin_design_117.xml" />
+	<!-- <include url="dragable-spot.xml" /> -->
    <!-- <include url="../krpano/plugins/googleanalytics.xml"/> -->
 
 	<!-- set skin settings: bingmaps? gyro? thumbnails? tooltips? -->
@@ -120,6 +121,15 @@
 
 		<hotspot name="hito18" style="skin_hotspotstyle4" url="skin/spots/es.png" ath="-177.054" atv="4.017"/>	
 
+		<!-- <hotspot name="mz1" style="manzana" html="1" ath="-24.914" atv="46.170"/>
+		<hotspot name="mz2" style="manzana" html="2" ath="-55.238" atv="42.414"/> -->
+		<hotspot name="mz3" style="manzana" html="3" ath="150.646" atv="53.578"/>
+		<hotspot name="mz4" style="manzana" html="4" ath="176.41" atv="38.525"/>
+		<hotspot name="mz5" style="manzana" html="5" ath="-165.101" atv="42.729"/>
+		<hotspot name="mz6" style="manzana" html="6" ath="178.888" atv="66.461"/>
+		<hotspot name="mz7" style="manzana" html="7" ath="59.397" atv="71.679"/>
+		<hotspot name="mz8" style="manzana" html="8" ath="38.276" atv="50.768"/>
+		<!-- <hotspot name="mz9" style="manzana" html="9" ath="140.780" atv="47.656"/> -->
 	</scene>
 
 	<scene name="scene_master2" title="Masterplan 360º II" onstart="mostrar_btn_vistageneral(false);activatespot(spot-master2,250);" thumburl="panos/master2.tiles/thumb.jpg" lat="" lng="" heading="">
@@ -152,7 +162,9 @@
 		<hotspot name="hito18" style="skin_hotspotstyle4" url="skin/spots/es.png" ath="175.613" atv="4.858"/>
 
 		<hotspot name="vista1" handcursor="true" zorder="50" style="animation-hotspot" url="skin/spots/spot0.png" onclick="looktohotspot(vista1, 70, tween(easeOutQuad,3));loadscene(scene_master, null, MERGE, BLEND(1));" onhover="showtext(Ver Masterplan 360º Vista 1);" ath="106.809" atv="49.396"/>
-
+		<hotspot name="mz3" style="manzana" html="14" ath="18.742" atv="50.634"/>
+		<hotspot name="mz4" style="manzana" html="15" ath="16.446" atv="68.632"/>
+		<hotspot name="mz5" style="manzana" html="16" ath="-148.113" atv="79.889"/>
 	</scene>
 
 

@@ -97,6 +97,7 @@
         bgshadow=""
         txtshadow=""
         width="28" height="28"
-        enabled="false"
+        enabled="true"
+        ondown="draghotspot();"
     />
 </krpano>
