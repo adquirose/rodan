@@ -38,7 +38,7 @@ try {
 }
 
 const arr = conHtml(data)
-
+console.log(arr)
 const arrFinal = arr.map(item => {
   const obj = xmlSpots.find( el => el.html === item.html)
   const newObj = { ...obj, ...item }

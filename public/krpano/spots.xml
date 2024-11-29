@@ -1,357 +1,363 @@
 <krpano>
 
-    <spot name="ficha1" escena="scene_master" estado="disponible" html="A1" ath="74.908" atv="48.341" precio=" " />
-    <spot name="ficha2" escena="scene_master" estado="disponible" html="A2" ath="66.747" atv="51.738" precio=" " />
-    <spot name="ficha3" escena="scene_master" estado="disponible" html="A3" ath="63.632" atv="49.905" precio=" " />
-    <spot name="ficha4" escena="scene_master" estado="disponible" html="A4" ath="60.877" atv="48.061" precio=" " />
-    <spot name="ficha5" escena="scene_master" estado="disponible" html="A5" ath="58.824" atv="46.345" precio=" " />
-    <spot name="ficha6" escena="scene_master" estado="disponible" html="A6" ath="56.870" atv="44.832" precio=" " />
-    <spot name="ficha7" escena="scene_master" estado="disponible" html="A7" ath="64.204" atv="42.758" precio=" " />
-    <spot name="ficha8" escena="scene_master" estado="disponible" html="A8" ath="66.258" atv="44.077" precio=" " />
-    <spot name="ficha9" escena="scene_master" estado="disponible" html="A9" ath="68.623" atv="45.552" precio=" " />
-    <spot name="ficha10" escena="scene_master" estado="disponible" html="A10" ath="71.546" atv="46.938" precio=" " />
-    <spot name="ficha11" escena="scene_master" estado="disponible" html="B1" ath="110.328" atv="53.790" precio=" " />
-    <spot name="ficha12" escena="scene_master" estado="disponible" html="B2" ath="109.600" atv="56.401" precio=" " />
-    <spot name="ficha13" escena="scene_master" estado="disponible" html="B3" ath="108.221" atv="58.972" precio=" " />
-    <spot name="ficha14" escena="scene_master" estado="disponible" html="B4" ath="106.996" atv="61.607" precio=" " />
-    <spot name="ficha15" escena="scene_master" estado="disponible" html="B5" ath="104.687" atv="64.367" precio=" " />
-    <spot name="ficha16" escena="scene_master" estado="disponible" html="B6" ath="93.731" atv="60.650" precio=" " />
-    <spot name="ficha17" escena="scene_master" estado="disponible" html="B7" ath="87.481" atv="59.148" precio=" " />
-    <spot name="ficha18" escena="scene_master" estado="disponible" html="B8" ath="75.910" atv="58.207" precio=" " />
-    <spot name="ficha19" escena="scene_master" estado="disponible" html="B9" ath="79.727" atv="56.289" precio=" " />
-    <spot name="ficha20" escena="scene_master" estado="disponible" html="B10" ath="83.305" atv="54.410" precio=" " />
-    <spot name="ficha21" escena="scene_master" estado="disponible" html="B11" ath="85.949" atv="52.366" precio=" " />
-    <spot name="ficha22" escena="scene_master" estado="disponible" html="B12" ath="88.391" atv="50.640" precio=" " />
-    <spot name="ficha23" escena="scene_master" estado="disponible" html="B13" ath="94.146" atv="53.793" precio=" " />
-    <spot name="ficha24" escena="scene_master" estado="disponible" html="B14" ath="99.645" atv="54.699" precio=" " />
-    <spot name="ficha25" escena="scene_master" estado="reservado" html="C1" ath="157.628" atv="45.256" precio=" " />
-    <spot name="ficha26" escena="scene_master" estado="reservado" html="C2" ath="160.019" atv="46.647" precio=" " />
-    <spot name="ficha27" escena="scene_master" estado="reservado" html="C3" ath="162.941" atv="48.228" precio=" " />
-    <spot name="ficha28" escena="scene_master" estado="reservado" html="C4" ath="166.056" atv="49.733" precio=" " />
-    <spot name="ficha29" escena="scene_master" estado="reservado" html="C5" ath="169.121" atv="51.224" precio=" " />
-    <spot name="ficha30" escena="scene_master" estado="reservado" html="C6" ath="160.564" atv="53.444" precio=" " />
-    <spot name="ficha31" escena="scene_master" estado="reservado" html="C7" ath="156.112" atv="55.028" precio=" " />
-    <spot name="ficha32" escena="scene_master" estado="vendido" html="C8" ath="151.902" atv="56.850" precio="117.000.000" />
-    <spot name="ficha33" escena="scene_master" estado="vendido" html="C9" ath="147.034" atv="58.407" precio="117.000.000" />
-    <spot name="ficha34" escena="scene_master" estado="vendido" html="C10" ath="136.384" atv="63.056" precio="126.000.000" />
-    <spot name="ficha35" escena="scene_master" estado="reservado" html="C11" ath="134.412" atv="60.418" precio=" " />
-    <spot name="ficha36" escena="scene_master" estado="reservado" html="C12" ath="133.392" atv="57.753" precio=" " />
-    <spot name="ficha37" escena="scene_master" estado="reservado" html="C13" ath="131.471" atv="55.374" precio=" " />
-    <spot name="ficha38" escena="scene_master" estado="reservado" html="C14" ath="130.348" atv="53.061" precio=" " />
-    <spot name="ficha39" escena="scene_master" estado="reservado" html="C15" ath="141.547" atv="52.726" precio=" " />
-    <spot name="ficha40" escena="scene_master" estado="reservado" html="C16" ath="145.673" atv="51.629" precio=" " />
-    <spot name="ficha41" escena="scene_master" estado="reservado" html="C17" ath="149.812" atv="50.361" precio=" " />
-    <spot name="ficha42" escena="scene_master" estado="reservado" html="C18" ath="153.783" atv="48.911" precio=" " />
 
-    <spot name="ficha43" escena="scene_master" estado="vendido" html="D1" ath="177.147" atv="34.364" />
-    <spot name="ficha44" escena="scene_master" estado="vendido" html="D2" ath="-177.321" atv="35.932" precio="110.000.000" />
-    <spot name="ficha45" escena="scene_master" estado="vendido" html="D3" ath="-178.755" atv="37.322" precio="91.350.000" />
-    <spot name="ficha46" escena="scene_master" estado="vendido" html="D4" ath="179.957" atv="38.716" precio="91.350.000" />
-    <spot name="ficha47" escena="scene_master" estado="vendido" html="D5" ath="178.645" atv="40.215" precio="91.350.000" />
-    <spot name="ficha48" escena="scene_master" estado="vendido" html="D6" ath="177.806" atv="43.910" precio="91.350.000" />
-    <spot name="ficha49" escena="scene_master" estado="vendido" html="D7" ath="174.966" atv="42.972" precio="91.350.000" />
-    <spot name="ficha50" escena="scene_master" estado="vendido" html="D8" ath="172.179" atv="42.082" precio="91.350.000" />
-    <spot name="ficha51" escena="scene_master" estado="vendido" html="D9" ath="169.507" atv="41.122" precio="91.350.000" />
-    <spot name="ficha52" escena="scene_master" estado="vendido" html="D10" ath="167.145" atv="40.018" precio="91.350.000" />
-    <spot name="ficha53" escena="scene_master" estado="reservado" html="D11" ath="172.646" atv="38.071" precio="126.000.000" />
-    <spot name="ficha54" escena="scene_master" estado="reservado" html="D12" ath="174.073" atv="37.028" precio="117.000.000" />
-    <spot name="ficha55" escena="scene_master" estado="vendido" html="D13" ath="175.625" atv="35.727" precio="91.350.000" />
+  <!-- VISTA 1-->
 
-    <!-- <spot name="ficha56" escena="scene_master" estado="vendido" html="D14" ath="177.147" atv="34.364" precio="91.350.000" /> -->
-    <spot name="ficha57" escena="scene_master" estado="vendido" html="E1" ath="-167.150" atv="38.004"  precio="" />
-    <spot name="ficha58" escena="scene_master" estado="vendido" html="E2" ath="-160.215" atv="38.801" precio="99.000.000" />
-    <spot name="ficha59" escena="scene_master" estado="vendido" html="E3" ath="-160.773" atv="40.553" precio="102.000.000" />
-    <spot name="ficha60" escena="scene_master" estado="vendido" html="E4" ath="-161.167" atv="42.303" precio="91.350.000" />
-    <spot name="ficha61" escena="scene_master" estado="vendido" html="E5" ath="-161.551" atv="44.121" precio="102.000.000" />
-    <spot name="ficha62" escena="scene_master" estado="vendido" html="E6" ath="-158.940" atv="48.362" precio="102.000.000" />
-    <spot name="ficha63" escena="scene_master" estado="vendido" html="E7" ath="-162.837" atv="47.983" precio="91.350.000" />
-    <spot name="ficha64" escena="scene_master" estado="vendido" html="E8" ath="-166.835" atv="47.448" precio="91.350.000" />
-    <spot name="ficha65" escena="scene_master" estado="vendido" html="E9" ath="-170.606" atv="46.796" precio="91.350.000" />
-    <spot name="ficha66" escena="scene_master" estado="vendido" html="E10" ath="-174.322" atv="46.120" precio="91.350.000" />
-    <spot name="ficha67" escena="scene_master" estado="vendido" html="E11" ath="-169.506" atv="42.987" precio="99.000.000" />
-    <spot name="ficha68" escena="scene_master" estado="vendido" html="E12" ath="-168.648" atv="41.294" precio="91.350.000" />
-    <spot name="ficha69" escena="scene_master" estado="vendido" html="E13" ath="-167.958" atv="39.669" precio="91.350.000" />
-    <!-- <spot name="ficha70" escena="scene_master" estado="vendido" html="E14" ath="-167.150" atv="38.004" precio="91.350.000" /> -->
-    <spot name="ficha71" escena="scene_master" estado="reservado" html="F1" ath="178.065" atv="54.767" precio=" " />
-    <spot name="ficha72" escena="scene_master" estado="reservado" html="F2" ath="-177.046" atv="56.034" precio=" " />
-    <spot name="ficha73" escena="scene_master" estado="vendido" html="F3" ath="-172.013" atv="57.089" precio="117.000.000" />
-    <spot name="ficha74" escena="scene_master" estado="reservado" html="F4" ath="-166.422" atv="58.049" precio="117.000.000" />
-    <spot name="ficha75" escena="scene_master" estado="reservado" html="F5" ath="-160.320" atv="58.523" precio="117.000.000" />
-    <spot name="ficha76" escena="scene_master" estado="vendido" html="F6" ath="-167.480" atv="63.399" precio="110.000.000" />
-    <spot name="ficha77" escena="scene_master" estado="vendido" html="F7" ath="-169.900" atv="66.467" precio="95.000.000" />
-    <spot name="ficha78" escena="scene_master" estado="reservado" html="F8" ath="-173.439" atv="69.880" precio="99.000.000" />
-    <spot name="ficha79" escena="scene_master" estado="reservado" html="F9" ath="-178.000" atv="73.216" precio="99.000.000" />
-    <spot name="ficha80" escena="scene_master" estado="reservado" html="F10" ath="-177.826" atv="81.176" precio="115.000.000" />
-    <spot name="ficha81" escena="scene_master" estado="reservado" html="F11" ath="165.723" atv="79.212" precio="110.000.000" />
-    <spot name="ficha82" escena="scene_master" estado="reservado" html="F12" ath="154.347" atv="76.232" precio="110.000.000" />
-    <spot name="ficha83" escena="scene_master" estado="vendido" html="F13" ath="147.280" atv="73.354" precio="110.000.000" />
-    <spot name="ficha84" escena="scene_master" estado="reservado" html="F14" ath="142.910" atv="70.205" precio=" " />
-    <spot name="ficha85" escena="scene_master" estado="reservado" html="F15" ath="163.158" atv="68.109" precio=" " />
-    <spot name="ficha86" escena="scene_master" estado="reservado" html="F16" ath="168.792" atv="65.687" precio=" " />
-    <spot name="ficha87" escena="scene_master" estado="reservado" html="F17" ath="173.282" atv="63.172" precio=" " />
-    <spot name="ficha88" escena="scene_master" estado="reservado" html="F18" ath="177.444" atv="60.232" precio=" " />
-    <spot name="ficha89" escena="scene_master" estado="vendido" html="G1" ath="97.306" atv="71.540" precio="99.000.000" />
-    <spot name="ficha90" escena="scene_master" estado="vendido" html="G2" ath="90.827" atv="74.534" precio="91.350.000" />
-    <spot name="ficha91" escena="scene_master" estado="vendido" html="G3" ath="82.601" atv="77.344" precio="91.350.000" />
-    <spot name="ficha92" escena="scene_master" estado="vendido" html="G4" ath="69.133" atv="79.952" precio="110.000.000" />
-    <spot name="ficha93" escena="scene_master" estado="vendido" html="G5" ath="49.682" atv="81.773" precio="91.350.000" />
-    <spot name="ficha94" escena="scene_master" estado="vendido" html="G6" ath="50.047" atv="75.193" precio="91.350.000" />
-    <spot name="ficha95" escena="scene_master" estado="vendido" html="G7" ath="44.363" atv="71.465" precio="91.350.000" />
-    <spot name="ficha96" escena="scene_master" estado="vendido" html="G8" ath="33.106" atv="66.340" precio="99.000.000" />
-    <spot name="ficha97" escena="scene_master" estado="vendido" html="G9" ath="41.115" atv="66.003" precio="110.000.000" />
-    <spot name="ficha98" escena="scene_master" estado="vendido" html="G10" ath="48.949" atv="65.192" precio="91.350.000" />
-    <spot name="ficha99" escena="scene_master" estado="vendido" html="G11" ath="56.564" atv="64.282" precio="99.000.000" />
-    <spot name="ficha100" escena="scene_master" estado="vendido" html="G12" ath="63.187" atv="62.619" precio="91.350.000" />
-    <spot name="ficha101" escena="scene_master" estado="vendido" html="G13" ath="66.822" atv="68.108" precio="91.350.000" />
-    <spot name="ficha102" escena="scene_master" estado="vendido" html="G14" ath="74.654" atv="70.883" precio="91.350.000" />
-    <spot name="ficha103" escena="scene_master" estado="vendido" html="H1" ath="48.839" atv="56.063" precio="99.000.000" />
-    <spot name="ficha104" escena="scene_master" estado="vendido" html="H2" ath="34.619" atv="57.453" precio="91.350.000" />
-    <spot name="ficha105" escena="scene_master" estado="vendido" html="H3" ath="33.751" atv="54.404" precio="91.350.000" />
-    <spot name="ficha106" escena="scene_master" estado="vendido" html="H4" ath="33.352" atv="51.964" precio="91.350.000" />
-    <spot name="ficha107" escena="scene_master" estado="vendido" html="H5" ath="33.008" atv="49.795" precio="99.000.000" />
-    <spot name="ficha108" escena="scene_master" estado="vendido" html="H6" ath="32.058" atv="47.680" precio="99.000.000" />
-    <spot name="ficha109" escena="scene_master" estado="vendido" html="H7" ath="41.854" atv="47.251" precio="91.350.000" />
-    <spot name="ficha110" escena="scene_master" estado="vendido" html="H8" ath="42.944" atv="49.309" precio="91.350.000" />
-    <spot name="ficha111" escena="scene_master" estado="vendido" html="H9" ath="44.557" atv="51.202" precio="91.350.000" />
-    <spot name="ficha112" escena="scene_master" estado="vendido" html="H10" ath="46.296" atv="53.571" precio="99.000.000" />
-    <spot name="ficha113" escena="scene_master" estado="disponible" html="I1" ath="13.071" atv="56.069" precio=" " />
-    <spot name="ficha114" escena="scene_master" estado="disponible" html="I2" ath="0.667" atv="53.160" precio=" " />
-    <spot name="ficha115" escena="scene_master" estado="disponible" html="I3" ath="2.704" atv="51.020" precio=" " />
-    <spot name="ficha116" escena="scene_master" estado="disponible" html="I4" ath="4.555" atv="48.741" precio=" " />
-    <spot name="ficha117" escena="scene_master" estado="disponible" html="I5" ath="5.740" atv="46.807" precio=" " />
-    <spot name="ficha118" escena="scene_master" estado="disponible" html="I6" ath="7.186" atv="45.029" precio=" " />
-    <spot name="ficha119" escena="scene_master" estado="disponible" html="I7" ath="15.970" atv="46.711" precio=" " />
-    <spot name="ficha120" escena="scene_master" estado="disponible" html="I8" ath="15.378" atv="48.712" precio=" " />
-    <spot name="ficha121" escena="scene_master" estado="disponible" html="I9" ath="14.698" atv="50.746" precio=" " />
-    <spot name="ficha122" escena="scene_master" estado="disponible" html="I10" ath="13.966" atv="53.160" precio=" " />
-    <spot name="ficha123" escena="scene_master" estado="disponible" html="J1" ath="-7.803" atv="80.479" precio=" " />
-    <spot name="ficha124" escena="scene_master" estado="disponible" html="J2" ath="-22.223" atv="77.540" precio=" " />
-    <spot name="ficha125" escena="scene_master" estado="disponible" html="J3" ath="-29.401" atv="74.427" precio=" " />
-    <spot name="ficha126" escena="scene_master" estado="disponible" html="J4" ath="-35.470" atv="71.419" precio=" " />
-    <spot name="ficha127" escena="scene_master" estado="disponible" html="J5" ath="-38.745" atv="68.303" precio=" " />
-    <spot name="ficha128" escena="scene_master" estado="disponible" html="J6" ath="-20.517" atv="67.626" precio=" " />
-    <spot name="ficha129" escena="scene_master" estado="disponible" html="J7" ath="-14.264" atv="65.074" precio=" " />
-    <spot name="ficha130" escena="scene_master" estado="disponible" html="J8" ath="-10.967" atv="59.109" precio=" " />
-    <spot name="ficha131" escena="scene_master" estado="disponible" html="J9" ath="-5.878" atv="60.831" precio=" " />
-    <spot name="ficha132" escena="scene_master" estado="disponible" html="J10" ath="-0.235" atv="62.532" precio=" " />
-    <spot name="ficha133" escena="scene_master" estado="disponible" html="J11" ath="5.921" atv="64.016" precio=" " />
-    <spot name="ficha134" escena="scene_master" estado="disponible" html="J12" ath="13.772" atv="65.105" precio=" " />
-    <spot name="ficha135" escena="scene_master" estado="disponible" html="J13" ath="2.958" atv="69.520" precio=" " />
-    <spot name="ficha136" escena="scene_master" estado="disponible" html="J14" ath="-2.675" atv="73.011" precio=" " />
-    <spot name="ficha137" escena="scene_master" estado="disponible" html="K1" ath="-145.965" atv="58.950" precio=" " />
-    <spot name="ficha138" escena="scene_master" estado="disponible" html="K2" ath="-139.844" atv="58.751" precio=" " />
-    <spot name="ficha139" escena="scene_master" estado="disponible" html="K3" ath="-133.597" atv="58.144" precio=" " />
-    <spot name="ficha140" escena="scene_master" estado="disponible" html="K4" ath="-127.984" atv="57.165" precio=" " />
-    <spot name="ficha141" escena="scene_master" estado="disponible" html="K5" ath="-122.504" atv="56.195" precio=" " />
-    <spot name="ficha142" escena="scene_master" estado="disponible" html="K6" ath="-121.175" atv="61.555" precio=" " />
-    <spot name="ficha143" escena="scene_master" estado="disponible" html="K7" ath="-115.942" atv="64.256" precio=" " />
-    <spot name="ficha144" escena="scene_master" estado="disponible" html="K8" ath="-110.092" atv="66.559" precio=" " />
-    <spot name="ficha145" escena="scene_master" estado="disponible" html="K9" ath="-102.920" atv="68.833" precio=" " />
-    <spot name="ficha146" escena="scene_master" estado="disponible" html="K10" ath="-81.009" atv="69.642" precio=" " />
-    <spot name="ficha147" escena="scene_master" estado="disponible" html="K11" ath="-84.910" atv="72.655" precio=" " />
-    <spot name="ficha148" escena="scene_master" estado="disponible" html="K12" ath="-91.770" atv="75.961" precio=" " />
-    <spot name="ficha149" escena="scene_master" estado="disponible" html="K13" ath="-101.987" atv="78.831" precio=" " />
-    <spot name="ficha150" escena="scene_master" estado="disponible" html="K14" ath="-119.055" atv="81.240" precio=" " />
-    <spot name="ficha151" escena="scene_master" estado="disponible" html="K15" ath="-125.354" atv="73.611" precio=" " />
-    <spot name="ficha152" escena="scene_master" estado="disponible" html="K16" ath="-130.340" atv="70.670" precio=" " />
-    <spot name="ficha153" escena="scene_master" estado="disponible" html="K17" ath="-133.929" atv="67.274" precio=" " />
-    <spot name="ficha154" escena="scene_master" estado="disponible" html="K18" ath="-136.773" atv="64.062" precio=" " />
-    <spot name="ficha155" escena="scene_master" estado="disponible" html="L1" ath="-145.001" atv="35.369" precio=" " />
-    <spot name="ficha156" escena="scene_master" estado="disponible" html="L2" ath="-140.651" atv="38.790" precio=" " />
-    <spot name="ficha157" escena="scene_master" estado="disponible" html="L3" ath="-139.538" atv="40.521" precio=" " />
-    <spot name="ficha158" escena="scene_master" estado="disponible" html="L4" ath="-138.493" atv="42.298" precio=" " />
-    <spot name="ficha159" escena="scene_master" estado="disponible" html="L5" ath="-137.667" atv="43.994" precio=" " />
-    <spot name="ficha160" escena="scene_master" estado="disponible" html="L6" ath="-131.809" atv="47.432" precio=" " />
-    <spot name="ficha161" escena="scene_master" estado="disponible" html="L7" ath="-135.850" atv="48.097" precio=" " />
-    <spot name="ficha162" escena="scene_master" estado="disponible" html="L8" ath="-140.106" atv="48.529" precio=" " />
-    <spot name="ficha163" escena="scene_master" estado="disponible" html="L9" ath="-144.347" atv="48.737" precio=" " />
-    <spot name="ficha164" escena="scene_master" estado="disponible" html="L10" ath="-148.899" atv="48.692" precio=" " />
-    <spot name="ficha165" escena="scene_master" estado="disponible" html="L11" ath="-146.931" atv="44.726" precio=" " />
-    <spot name="ficha166" escena="scene_master" estado="disponible" html="L12" ath="-147.524" atv="42.752" precio=" " />
-    <spot name="ficha167" escena="scene_master" estado="disponible" html="L13" ath="-147.949" atv="41.024" precio=" " />
-    <spot name="ficha168" escena="scene_master" estado="disponible" html="L14" ath="-148.276" atv="39.207" precio=" " />
+    <spot name="ficha1" escena="scene_master" estado="disponible" html="A1" ath="63.964" atv="42.789" precio=" " />
+    <spot name="ficha2" escena="scene_master" estado="disponible" html="A2" ath="66.127" atv="44.090" precio=" " />
+    <spot name="ficha3" escena="scene_master" estado="disponible" html="A3" ath="68.684" atv="45.389" precio=" " />
+    <spot name="ficha4" escena="scene_master" estado="disponible" html="A4" ath="71.455" atv="46.910" precio=" " />
+    <spot name="ficha5" escena="scene_master" estado="disponible" html="A5" ath="74.522" atv="48.369" precio=" " />
+    <spot name="ficha6" escena="scene_master" estado="disponible" html="A6" ath="66.818" atv="51.580" precio=" " />
+    <spot name="ficha7" escena="scene_master" estado="disponible" html="A7" ath="63.571" atv="49.765" precio=" " />
+    <spot name="ficha8" escena="scene_master" estado="disponible" html="A8" ath="61.044" atv="48.066" precio=" " />
+    <spot name="ficha9" escena="scene_master" estado="disponible" html="A9" ath="58.559" atv="46.290" precio=" " />
+    <spot name="ficha10" escena="scene_master" estado="disponible" html="A10" ath="56.806" atv="44.806" precio=" " />
+    <spot name="ficha11" escena="scene_master" estado="disponible" html="B1" ath="88.323" atv="50.516" precio=" " />
+    <spot name="ficha12" escena="scene_master" estado="disponible" html="B2" ath="93.892" atv="53.656" precio=" " />
+    <spot name="ficha13" escena="scene_master" estado="disponible" html="B3" ath="99.348" atv="54.687" precio=" " />
+    <spot name="ficha14" escena="scene_master" estado="disponible" html="B4" ath="109.974" atv="53.547" precio=" " />
+    <spot name="ficha15" escena="scene_master" estado="disponible" html="B5" ath="108.900" atv="56.289" precio=" " />
+    <spot name="ficha16" escena="scene_master" estado="disponible" html="B6" ath="107.721" atv="58.864" precio=" " />
+    <spot name="ficha17" escena="scene_master" estado="disponible" html="B7" ath="106.059" atv="61.354" precio=" " />
+    <spot name="ficha18" escena="scene_master" estado="disponible" html="B8" ath="104.067" atv="64.350" precio=" " />
+    <spot name="ficha19" escena="scene_master" estado="disponible" html="B9" ath="93.494" atv="60.579" precio=" " />
+    <spot name="ficha20" escena="scene_master" estado="disponible" html="B10" ath="87.197" atv="59.024" precio=" " />
+    <spot name="ficha21" escena="scene_master" estado="disponible" html="B11" ath="76.186" atv="58.203" precio=" " />
+    <spot name="ficha22" escena="scene_master" estado="disponible" html="B12" ath="79.674" atv="56.356" precio=" " />
+    <spot name="ficha23" escena="scene_master" estado="disponible" html="B13" ath="83.070" atv="54.361" precio=" " />
+    <spot name="ficha24" escena="scene_master" estado="disponible" html="B14" ath="85.987" atv="52.362" precio=" " />
+    <spot name="ficha25" escena="scene_master" estado="reservado" html="C1" ath="130.680" atv="52.825" precio=" " />
+    <spot name="ficha26" escena="scene_master" estado="reservado" html="C2" ath="141.686" atv="52.605" precio=" " />
+    <spot name="ficha27" escena="scene_master" estado="reservado" html="C3" ath="145.789" atv="51.582" precio=" " />
+    <spot name="ficha28" escena="scene_master" estado="reservado" html="C4" ath="149.629" atv="50.298" precio=" " />
+    <spot name="ficha29" escena="scene_master" estado="reservado" html="C5" ath="153.458" atv="48.792" precio=" " />
+    <spot name="ficha30" escena="scene_master" estado="reservado" html="C6" ath="157.611" atv="45.190" precio=" " />
+    <spot name="ficha31" escena="scene_master" estado="reservado" html="C7" ath="159.940" atv="46.757" precio=" " />
+    <spot name="ficha32" escena="scene_master" estado="vendido" html="C8" ath="162.667" atv="48.286" />
+    <spot name="ficha33" escena="scene_master" estado="vendido" html="C9" ath="165.710" atv="49.784"  />
+    <spot name="ficha34" escena="scene_master" estado="vendido" html="C10" ath="168.877" atv="51.450" />
+    <spot name="ficha35" escena="scene_master" estado="reservado" html="C11" ath="160.649" atv="53.627" precio=" " />
+    <spot name="ficha36" escena="scene_master" estado="reservado" html="C12" ath="156.487" atv="55.371" precio=" " />
+    <spot name="ficha37" escena="scene_master" estado="reservado" html="C13" ath="152.208" atv="56.906" precio=" " />
+    <spot name="ficha38" escena="scene_master" estado="reservado" html="C14" ath="147.074" atv="58.473" precio=" " />
+    <spot name="ficha39" escena="scene_master" estado="reservado" html="C15" ath="136.086" atv="63.106" precio=" " />
+    <spot name="ficha40" escena="scene_master" estado="reservado" html="C16" ath="134.264" atv="60.493" precio=" " />
+    <spot name="ficha41" escena="scene_master" estado="reservado" html="C17" ath="132.955" atv="57.771" precio=" " />
+    <spot name="ficha42" escena="scene_master" estado="reservado" html="C18" ath="131.892" atv="55.274" precio=" " />
+    <spot name="ficha43" escena="scene_master" estado="vendido" html="D1" ath="167.382" atv="39.781" precio="110.000.000" />
+    <spot name="ficha44" escena="scene_master" estado="vendido" html="D2" ath="172.869" atv="38.167" precio="110.000.000" />
+    <spot name="ficha45" escena="scene_master" estado="vendido" html="D3" ath="174.329" atv="36.848" precio="91.350.000" />
+    <spot name="ficha46" escena="scene_master" estado="vendido" html="D4" ath="175.888" atv="35.657" precio="91.350.000" />
+    <spot name="ficha47" escena="scene_master" estado="vendido" html="D5" ath="177.014" atv="34.355" precio="91.350.000" />
+    <spot name="ficha48" escena="scene_master" estado="vendido" html="D6" ath="-177.486" atv="35.892" precio="91.350.000" />
+    <spot name="ficha49" escena="scene_master" estado="vendido" html="D7" ath="-178.763" atv="37.358" precio="91.350.000" />
+    <spot name="ficha50" escena="scene_master" estado="vendido" html="D8" ath="179.850" atv="38.693" precio="91.350.000" />
+    <spot name="ficha51" escena="scene_master" estado="vendido" html="D9" ath="178.417" atv="40.074" precio="91.350.000" />
+    <spot name="ficha52" escena="scene_master" estado="vendido" html="D10" ath="177.541" atv="44.129" precio="91.350.000" />
+    <spot name="ficha53" escena="scene_master" estado="reservado" html="D11" ath="175.043" atv="43.116" precio="126.000.000" />
+    <spot name="ficha54" escena="scene_master" estado="reservado" html="D12" ath="172.213" atv="42.138" precio="117.000.000" />
+    <spot name="ficha55" escena="scene_master" estado="vendido" html="D13" ath="169.706" atv="40.942" precio="91.350.000" />
+    <spot name="ficha56" escena="scene_master" estado="vendido" html="E1" ath="-174.457" atv="45.986" precio="91.350.000" />
+    <spot name="ficha57" escena="scene_master" estado="vendido" html="E2" ath="-169.467" atv="43.018" precio="" />
+    <spot name="ficha58" escena="scene_master" estado="vendido" html="E3" ath="-168.387" atv="41.311" precio="99.000.000" />
+    <spot name="ficha59" escena="scene_master" estado="vendido" html="E4" ath="-167.878" atv="39.723" precio="102.000.000" />
+    <spot name="ficha60" escena="scene_master" estado="vendido" html="E5" ath="-167.270" atv="37.880" precio="91.350.000" />
+    <spot name="ficha61" escena="scene_master" estado="vendido" html="E6" ath="-160.035" atv="38.840" precio="102.000.000" />
+    <spot name="ficha62" escena="scene_master" estado="vendido" html="E7" ath="-160.359" atv="40.512" precio="102.000.000" />
+    <spot name="ficha63" escena="scene_master" estado="vendido" html="E8" ath="-160.959" atv="42.361" precio="91.350.000" />
+    <spot name="ficha64" escena="scene_master" estado="vendido" html="E9" ath="-161.296" atv="44.095" precio="91.350.000" />
+    <spot name="ficha65" escena="scene_master" estado="vendido" html="E10" ath="-159.018" atv="48.434" precio="91.350.000" />
+    <spot name="ficha66" escena="scene_master" estado="vendido" html="E11" ath="-163.042" atv="48.072" precio="91.350.000" />
+    <spot name="ficha67" escena="scene_master" estado="vendido" html="E12" ath="-166.940" atv="47.571" precio="99.000.000" />
+    <spot name="ficha68" escena="scene_master" estado="vendido" html="E13" ath="-170.699" atv="46.759" precio="91.350.000" />
+    <spot name="ficha69" escena="scene_master" estado="vendido" html="F1" ath="143.304" atv="70.040" precio="91.350.000" />
+    <spot name="ficha70" escena="scene_master" estado="vendido" html="F2" ath="162.202" atv="67.882" precio="91.350.000" />
+    <spot name="ficha71" escena="scene_master" estado="reservado" html="F3" ath="167.991" atv="65.394" precio=" " />
+    <spot name="ficha72" escena="scene_master" estado="reservado" html="F4" ath="172.706" atv="62.846" precio=" " />
+    <spot name="ficha73" escena="scene_master" estado="vendido" html="F5" ath="176.582" atv="60.157" precio="117.000.000" />
+    <spot name="ficha74" escena="scene_master" estado="reservado" html="F6" ath="178.316" atv="54.667" precio="117.000.000" />
+    <spot name="ficha75" escena="scene_master" estado="reservado" html="F7" ath="-177.040" atv="55.815" precio="117.000.000" />
+    <spot name="ficha76" escena="scene_master" estado="vendido" html="F8" ath="-171.839" atv="56.914" precio="110.000.000" />
+    <spot name="ficha77" escena="scene_master" estado="vendido" html="F9" ath="-166.196" atv="57.788" precio="95.000.000" />
+    <spot name="ficha78" escena="scene_master" estado="reservado" html="F10" ath="-160.358" atv="58.493" precio="99.000.000" />
+    <spot name="ficha79" escena="scene_master" estado="reservado" html="F11" ath="-168.475" atv="63.210" precio="99.000.000" />
+    <spot name="ficha80" escena="scene_master" estado="reservado" html="F12" ath="-171.000" atv="66.569" precio="115.000.000" />
+    <spot name="ficha81" escena="scene_master" estado="reservado" html="F13" ath="-173.315" atv="69.756" precio="110.000.000" />
+    <spot name="ficha82" escena="scene_master" estado="reservado" html="F14" ath="-177.263" atv="72.971" precio="110.000.000" />
+    <spot name="ficha83" escena="scene_master" estado="vendido" html="F15" ath="-177.954" atv="80.900" precio="110.000.000" />
+    <spot name="ficha84" escena="scene_master" estado="reservado" html="F16" ath="166.469" atv="78.876" precio=" " />
+    <spot name="ficha85" escena="scene_master" estado="reservado" html="F17" ath="155.142" atv="76.162" precio=" " />
+    <spot name="ficha86" escena="scene_master" estado="reservado" html="F18" ath="148.304" atv="73.143" precio=" " />
+    <spot name="ficha87" escena="scene_master" estado="reservado" html="G1" ath="62.978" atv="62.640" precio=" " />
+    <spot name="ficha88" escena="scene_master" estado="reservado" html="G2" ath="66.182" atv="68.127" precio=" " />
+    <spot name="ficha89" escena="scene_master" estado="vendido" html="G3" ath="73.902" atv="70.756" precio="99.000.000" />
+    <spot name="ficha90" escena="scene_master" estado="vendido" html="G4" ath="98.123" atv="71.531" precio="91.350.000" />
+    <spot name="ficha91" escena="scene_master" estado="vendido" html="G5" ath="92.728" atv="74.641" precio="91.350.000" />
+    <spot name="ficha92" escena="scene_master" estado="vendido" html="G6" ath="85.143" atv="77.666" precio="110.000.000" />
+    <spot name="ficha93" escena="scene_master" estado="vendido" html="G7" ath="71.091" atv="80.218" precio="91.350.000" />
+    <spot name="ficha94" escena="scene_master" estado="vendido" html="G8" ath="49.428" atv="82.031" precio="91.350.000" />
+    <spot name="ficha95" escena="scene_master" estado="vendido" html="G9" ath="48.139" atv="75.020" precio="91.350.000" />
+    <spot name="ficha96" escena="scene_master" estado="vendido" html="G10" ath="43.491" atv="71.545" precio="99.000.000" />
+    <spot name="ficha97" escena="scene_master" estado="vendido" html="G11" ath="33.002" atv="66.015" precio="110.000.000" />
+    <spot name="ficha98" escena="scene_master" estado="vendido" html="G12" ath="41.023" atv="65.523" precio="91.350.000" />
+    <spot name="ficha99" escena="scene_master" estado="vendido" html="G13" ath="48.968" atv="64.696" precio="99.000.000" />
+    <spot name="ficha100" escena="scene_master" estado="vendido" html="G14" ath="56.483" atv="63.888" precio="91.350.000" />
+    <spot name="ficha101" escena="scene_master" estado="vendido" html="H1" ath="41.871" atv="47.440" precio="91.350.000" />
+    <spot name="ficha102" escena="scene_master" estado="vendido" html="H2" ath="43.133" atv="49.338" precio="91.350.000" />
+    <spot name="ficha103" escena="scene_master" estado="vendido" html="H3" ath="44.651" atv="51.361" precio="99.000.000" />
+    <spot name="ficha104" escena="scene_master" estado="vendido" html="H4" ath="46.398" atv="53.520" precio="91.350.000" />
+    <spot name="ficha105" escena="scene_master" estado="vendido" html="H5" ath="48.673" atv="56.030" precio="91.350.000" />
+    <spot name="ficha106" escena="scene_master" estado="vendido" html="H6" ath="33.713" atv="57.264" precio="91.350.000" />
+    <spot name="ficha107" escena="scene_master" estado="vendido" html="H7" ath="33.357" atv="54.454" precio="99.000.000" />
+    <spot name="ficha108" escena="scene_master" estado="vendido" html="H8" ath="33.013" atv="52.072" precio="99.000.000" />
+    <spot name="ficha109" escena="scene_master" estado="vendido" html="H9" ath="32.330" atv="49.922" precio="91.350.000" />
+    <spot name="ficha110" escena="scene_master" estado="vendido" html="H10" ath="32.092" atv="47.844" precio="91.350.000" />
+    <spot name="ficha111" escena="scene_master" estado="vendido" html="I1" ath="16.056" atv="46.742" precio="91.350.000" />
+    <spot name="ficha112" escena="scene_master" estado="vendido" html="I2" ath="15.253" atv="48.624" precio="99.000.000" />
+    <spot name="ficha113" escena="scene_master" estado="disponible" html="I3" ath="14.691" atv="50.791" precio=" " />
+    <spot name="ficha114" escena="scene_master" estado="disponible" html="I4" ath="13.802" atv="53.105" precio=" " />
+    <spot name="ficha115" escena="scene_master" estado="disponible" html="I5" ath="12.942" atv="55.743" precio=" " />
+    <spot name="ficha116" escena="scene_master" estado="disponible" html="I6" ath="0.684" atv="53.150" precio=" " />
+    <spot name="ficha117" escena="scene_master" estado="disponible" html="I7" ath="2.762" atv="50.832" precio=" " />
+    <spot name="ficha118" escena="scene_master" estado="disponible" html="I8" ath="4.482" atv="48.844" precio=" " />
+    <spot name="ficha119" escena="scene_master" estado="disponible" html="I9" ath="5.852" atv="46.854" precio=" " />
+    <spot name="ficha120" escena="scene_master" estado="disponible" html="I10" ath="7.151" atv="45.145" precio=" " />
+    <spot name="ficha121" escena="scene_master" estado="disponible" html="J1" ath="13.769" atv="64.993" precio=" " />
+    <spot name="ficha122" escena="scene_master" estado="disponible" html="J2" ath="2.445" atv="69.523" precio=" " />
+    <spot name="ficha123" escena="scene_master" estado="disponible" html="J3" ath="-2.762" atv="72.772" precio=" " />
+    <spot name="ficha124" escena="scene_master" estado="disponible" html="J4" ath="-7.461" atv="80.395" precio=" " />
+    <spot name="ficha125" escena="scene_master" estado="disponible" html="J5" ath="-22.610" atv="77.810" precio=" " />
+    <spot name="ficha126" escena="scene_master" estado="disponible" html="J6" ath="-31.358" atv="74.955" precio=" " />
+    <spot name="ficha127" escena="scene_master" estado="disponible" html="J7" ath="-36.767" atv="71.686" precio=" " />
+    <spot name="ficha128" escena="scene_master" estado="disponible" html="J8" ath="-40.314" atv="68.637" precio=" " />
+    <spot name="ficha129" escena="scene_master" estado="disponible" html="J9" ath="-20.794" atv="67.396" precio=" " />
+    <spot name="ficha130" escena="scene_master" estado="disponible" html="J10" ath="-14.344" atv="65.000" precio=" " />
+    <spot name="ficha131" escena="scene_master" estado="disponible" html="J11" ath="-10.546" atv="59.026" precio=" " />
+    <spot name="ficha132" escena="scene_master" estado="disponible" html="J12" ath="-5.795" atv="60.729" precio=" " />
+    <spot name="ficha133" escena="scene_master" estado="disponible" html="J13" ath="0.170" atv="62.261" precio=" " />
+    <spot name="ficha134" escena="scene_master" estado="disponible" html="J14" ath="6.459" atv="63.826" precio=" " />
+    <spot name="ficha135" escena="scene_master" estado="disponible" html="K1" ath="-118.521" atv="81.234" precio=" " />
+    <spot name="ficha136" escena="scene_master" estado="disponible" html="K2" ath="-124.303" atv="73.602" precio=" " />
+    <spot name="ficha137" escena="scene_master" estado="disponible" html="K3" ath="-129.681" atv="70.477" precio=" " />
+    <spot name="ficha138" escena="scene_master" estado="disponible" html="K4" ath="-133.430" atv="67.278" precio=" " />
+    <spot name="ficha139" escena="scene_master" estado="disponible" html="K5" ath="-136.472" atv="64.295" precio=" " />
+    <spot name="ficha140" escena="scene_master" estado="disponible" html="K6" ath="-146.038" atv="59.387" precio=" " />
+    <spot name="ficha141" escena="scene_master" estado="disponible" html="K7" ath="-139.845" atv="59.013" precio=" " />
+    <spot name="ficha142" escena="scene_master" estado="disponible" html="K8" ath="-133.524" atv="58.133" precio=" " />
+    <spot name="ficha143" escena="scene_master" estado="disponible" html="K9" ath="-127.678" atv="57.214" precio=" " />
+    <spot name="ficha144" escena="scene_master" estado="disponible" html="K10" ath="-122.596" atv="56.189" precio=" " />
+    <spot name="ficha145" escena="scene_master" estado="disponible" html="K11" ath="-120.649" atv="61.365" precio=" " />
+    <spot name="ficha146" escena="scene_master" estado="disponible" html="K12" ath="-115.644" atv="64.174" precio=" " />
+    <spot name="ficha147" escena="scene_master" estado="disponible" html="K13" ath="-109.649" atv="66.708" precio=" " />
+    <spot name="ficha148" escena="scene_master" estado="disponible" html="K14" ath="-102.211" atv="68.677" precio=" " />
+    <spot name="ficha149" escena="scene_master" estado="disponible" html="K15" ath="-82.085" atv="69.723" precio=" " />
+    <spot name="ficha150" escena="scene_master" estado="disponible" html="K16" ath="-86.810" atv="72.684" precio=" " />
+    <spot name="ficha151" escena="scene_master" estado="disponible" html="K17" ath="-93.163" atv="75.830" precio=" " />
+    <spot name="ficha152" escena="scene_master" estado="disponible" html="K18" ath="-103.250" atv="78.803" precio=" " />
+    <spot name="ficha153" escena="scene_master" estado="disponible" html="L1" ath="-148.938" atv="49.073" precio=" " />
+    <spot name="ficha154" escena="scene_master" estado="disponible" html="L2" ath="-146.897" atv="44.671" precio=" " />
+    <spot name="ficha155" escena="scene_master" estado="disponible" html="L3" ath="-147.312" atv="42.735" precio=" " />
+    <spot name="ficha156" escena="scene_master" estado="disponible" html="L4" ath="-147.756" atv="41.048" precio=" " />
+    <spot name="ficha157" escena="scene_master" estado="disponible" html="L5" ath="-147.901" atv="39.110" precio=" " />
+    <spot name="ficha158" escena="scene_master" estado="disponible" html="L6" ath="-140.456" atv="38.864" precio=" " />
+    <spot name="ficha159" escena="scene_master" estado="disponible" html="L7" ath="-139.638" atv="40.685" precio=" " />
+    <spot name="ficha160" escena="scene_master" estado="disponible" html="L8" ath="-138.798" atv="42.397" precio=" " />
+    <spot name="ficha161" escena="scene_master" estado="disponible" html="L9" ath="-137.975" atv="44.154" precio=" " />
+    <spot name="ficha162" escena="scene_master" estado="disponible" html="L10" ath="-132.022" atv="47.447" precio=" " />
+    <spot name="ficha163" escena="scene_master" estado="disponible" html="L11" ath="-135.723" atv="48.167" precio=" " />
+    <spot name="ficha164" escena="scene_master" estado="disponible" html="L12" ath="-139.995" atv="48.577" precio=" " />
+    <spot name="ficha165" escena="scene_master" estado="disponible" html="L13" ath="-144.391" atv="48.932" precio=" " />
 
 
 
-    <spot name="ficha169" escena="scene_master2" estado="disponible" html="M1" ath="-129.114" atv="33.371" precio=" " />
-    <spot name="ficha170" escena="scene_master2" estado="disponible" html="M2" ath="-151.391" atv="47.345" precio=" " />
-    <spot name="ficha171" escena="scene_master2" estado="disponible" html="M3" ath="-151.005" atv="49.514" precio=" " />
-    <spot name="ficha172" escena="scene_master2" estado="disponible" html="M4" ath="-150.631" atv="51.455" precio=" " />
-    <spot name="ficha173" escena="scene_master2" estado="disponible" html="M5" ath="-150.534" atv="53.521" precio=" " />
-    <spot name="ficha174" escena="scene_master2" estado="disponible" html="M6" ath="-144.698" atv="57.828" precio=" " />
-    <spot name="ficha175" escena="scene_master2" estado="disponible" html="M7" ath="-149.926" atv="58.238" precio=" " />
-    <spot name="ficha176" escena="scene_master2" estado="disponible" html="M8" ath="-155.317" atv="58.392" precio=" " />
-    <spot name="ficha177" escena="scene_master2" estado="disponible" html="M9" ath="-160.902" atv="58.238" precio=" " />
-    <spot name="ficha178" escena="scene_master2" estado="disponible" html="M10" ath="-166.566" atv="57.937" precio=" " />
-    <spot name="ficha179" escena="scene_master2" estado="disponible" html="M11" ath="-161.636" atv="53.389" precio=" " />
-    <spot name="ficha180" escena="scene_master2" estado="disponible" html="M12" ath="-161.380" atv="51.239" precio=" " />
-    <spot name="ficha181" escena="scene_master2" estado="disponible" html="M13" ath="-161.226" atv="49.266" precio=" " />
-    <spot name="ficha182" escena="scene_master2" estado="disponible" html="M14" ath="-160.937" atv="47.148" precio=" " />
-    <spot name="ficha183" escena="scene_master2" estado="reservado" html="N1" ath="-170.357" atv="68.123" precio=" " />
-    <spot name="ficha184" escena="scene_master2" estado="reservado" html="N2" ath="-161.933" atv="68.705" precio=" " />
-    <spot name="ficha185" escena="scene_master2" estado="reservado" html="N3" ath="-153.409" atv="68.836" precio="110.000.000" />
-    <spot name="ficha186" escena="scene_master2" estado="reservado" html="N4" ath="-144.729" atv="68.761" precio="102.000.000" />
-    <spot name="ficha187" escena="scene_master2" estado="reservado" html="N5" ath="-136.726" atv="68.020" precio="102.000.000" />
-    <spot name="ficha188" escena="scene_master2" estado="vendido" html="N6" ath="-137.669" atv="74.166" precio="102.000.000" />
-    <spot name="ficha189" escena="scene_master2" estado="vendido" html="N7" ath="-131.661" atv="77.376" precio="73.000.000" />
-    <spot name="ficha190" escena="scene_master2" estado="reservado" html="N8" ath="-122.965" atv="80.015" precio="102.000.000" />
-    <spot name="ficha191" escena="scene_master2" estado="vendido" html="N9" ath="-107.468" atv="82.336" precio="102.000.000" />
-    <spot name="ficha192" escena="scene_master2" estado="vendido" html="N10" ath="-54.044" atv="81.073" precio="102.000.000" />
-    <spot name="ficha193" escena="scene_master2" estado="reservado" html="N11" ath="-51.051" atv="84.201" precio="102.000.000" />
-    <spot name="ficha194" escena="scene_master2" estado="reservado" html="N12" ath="-26.040" atv="87.458" precio="102.000.000" />
-    <spot name="ficha195" escena="scene_master2" estado="reservado" html="N13" ath="67.175" atv="87.988" precio="102.000.000" />
-    <spot name="ficha196" escena="scene_master2" estado="reservado" html="N14" ath="96.503" atv="85.120" precio="102.000.000" />
-    <spot name="ficha197" escena="scene_master2" estado="vendido" html="N15" ath="179.765" atv="84.091" precio="153.000.000" />
-    <spot name="ficha198" escena="scene_master2" estado="vendido" html="N16" ath="-173.125" atv="80.803" precio="144.000.000" />
-    <spot name="ficha199" escena="scene_master2" estado="reservado" html="N17" ath="-169.531" atv="77.791" precio=" " />
-    <spot name="ficha200" escena="scene_master2" estado="reservado" html="N18" ath="-167.651" atv="74.452" precio=" " />
-    <spot name="ficha201" escena="scene_master2" estado="vendido" html="O1" ath="38.824" atv="75.111" precio="110.000.000" />
-    <spot name="ficha202" escena="scene_master2" estado="vendido" html="O2" ath="26.413" atv="75.519" precio="102.000.000" />
-    <spot name="ficha203" escena="scene_master2" estado="vendido" html="O3" ath="14.192" atv="75.087" precio="102.000.000" />
-    <spot name="ficha204" escena="scene_master2" estado="vendido" html="O4" ath="1.634" atv="73.951" precio="83.000.000" />
-    <spot name="ficha205" escena="scene_master2" estado="reservado" html="O5" ath="-7.333" atv="72.213" precio=" " />
-    <spot name="ficha206" escena="scene_master2" estado="vendido" html="O6" ath="5.492" atv="68.881" precio="135.000.000" />
-    <spot name="ficha207" escena="scene_master2" estado="vendido" html="O7" ath="8.005" atv="65.818" precio="135.000.000" />
-    <spot name="ficha208" escena="scene_master2" estado="vendido" html="O8" ath="5.524" atv="61.049" precio="144.000.000" />
-    <spot name="ficha209" escena="scene_master2" estado="vendido" html="O9" ath="11.593" atv="61.884" precio="102.000.000" />
-    <spot name="ficha210" escena="scene_master2" estado="reservado" html="O10" ath="17.470" atv="62.181" precio="102.000.000" />
-    <spot name="ficha211" escena="scene_master2" estado="vendido" html="O11" ath="23.863" atv="62.464" precio="110.000.000" />
-    <spot name="ficha212" escena="scene_master2" estado="vendido" html="O12" ath="30.408" atv="62.565" precio="95.000.000" />
-    <spot name="ficha213" escena="scene_master2" estado="vendido" html="O13" ath="26.638" atv="67.164" precio="95.000.000" />
-    <spot name="ficha214" escena="scene_master2" estado="vendido" html="O14" ath="27.743" atv="70.292" precio="95.000.000" />
-    <spot name="ficha215" escena="scene_master2" estado="vendido" html="P1" ath="24.198" atv="55.112" precio="102.000.000" />
-    <spot name="ficha216" escena="scene_master2" estado="reservado" html="P2" ath="13.536" atv="54.396" precio="95.000.000" />
-    <spot name="ficha217" escena="scene_master2" estado="reservado" html="P3" ath="13.918" atv="52.075" precio="95.000.000" />
-    <spot name="ficha218" escena="scene_master2" estado="vendido" html="P4" ath="14.264" atv="50.127" precio="95.000.000" />
-    <spot name="ficha219" escena="scene_master2" estado="vendido" html="P5" ath="14.745" atv="48.390" precio="102.000.000" />
-    <spot name="ficha220" escena="scene_master2" estado="vendido" html="P6" ath="15.136" atv="46.719" precio="102.000.000" />
-    <spot name="ficha221" escena="scene_master2" estado="vendido" html="P7" ath="23.562" atv="47.336" precio="95.000.000" />
-    <spot name="ficha222" escena="scene_master2" estado="reservado" html="P8" ath="23.894" atv="49.085" precio="95.000.000" />
-    <spot name="ficha223" escena="scene_master2" estado="vendido" html="P9" ath="23.939" atv="50.889" precio="95.000.000" />
-    <spot name="ficha224" escena="scene_master2" estado="vendido" html="P10" ath="23.818" atv="52.885" precio="99.000.000" />
-    <spot name="ficha225" escena="scene_master2" estado="disponible" html="Q1" ath="-3.196" atv="51.277" precio=" " />
-    <spot name="ficha226" escena="scene_master2" estado="disponible" html="Q2" ath="-10.915" atv="48.534" precio=" " />
-    <spot name="ficha227" escena="scene_master2" estado="disponible" html="Q3" ath="-9.057" atv="46.980" precio=" " />
-    <spot name="ficha228" escena="scene_master2" estado="disponible" html="Q4" ath="-7.242" atv="45.298" precio=" " />
-    <spot name="ficha229" escena="scene_master2" estado="disponible" html="Q5" ath="-5.513" atv="43.937" precio=" " />
-    <spot name="ficha230" escena="scene_master2" estado="disponible" html="Q6" ath="-4.270" atv="42.661" precio=" " />
-    <spot name="ficha231" escena="scene_master2" estado="disponible" html="Q7" ath="2.000" atv="44.445" precio=" " />
-    <spot name="ficha232" escena="scene_master2" estado="disponible" html="Q8" ath="1.277" atv="45.939" precio=" " />
-    <spot name="ficha233" escena="scene_master2" estado="disponible" html="Q9" ath="0.158" atv="47.509" precio=" " />
-    <spot name="ficha234" escena="scene_master2" estado="disponible" html="Q10" ath="-1.596" atv="49.226" precio=" " />
-    <spot name="ficha235" escena="scene_master2" estado="disponible" html="R1" ath="-23.557" atv="67.597" precio=" " />
-    <spot name="ficha236" escena="scene_master2" estado="disponible" html="R2" ath="-28.330" atv="65.555" precio=" " />
-    <spot name="ficha237" escena="scene_master2" estado="disponible" html="R3" ath="-32.555" atv="63.374" precio=" " />
-    <spot name="ficha238" escena="scene_master2" estado="disponible" html="R4" ath="-35.748" atv="61.032" precio=" " />
-    <spot name="ficha239" escena="scene_master2" estado="disponible" html="R5" ath="-38.537" atv="58.814" precio=" " />
-    <spot name="ficha240" escena="scene_master2" estado="disponible" html="R6" ath="-28.042" atv="58.181" precio=" " />
-    <spot name="ficha241" escena="scene_master2" estado="disponible" html="R7" ath="-23.600" atv="56.379" precio=" " />
-    <spot name="ficha242" escena="scene_master2" estado="disponible" html="R8" ath="-20.804" atv="52.133" precio=" " />
-    <spot name="ficha243" escena="scene_master2" estado="disponible" html="R9" ath="-17.860" atv="53.693" precio=" " />
-    <spot name="ficha244" escena="scene_master2" estado="disponible" html="R10" ath="-14.372" atv="55.254" precio=" " />
-    <spot name="ficha245" escena="scene_master2" estado="disponible" html="R11" ath="-10.343" atv="56.669" precio=" " />
-    <spot name="ficha246" escena="scene_master2" estado="disponible" html="R12" ath="-5.990" atv="58.113" precio=" " />
-    <spot name="ficha247" escena="scene_master2" estado="disponible" html="R13" ath="-14.497" atv="60.799" precio=" " />
-    <spot name="ficha248" escena="scene_master2" estado="disponible" html="R14" ath="-18.422" atv="62.991" precio=" " />
-    <spot name="ficha249" escena="scene_master2" estado="disponible" html="S1" ath="-120.378" atv="65.206" precio=" " />
-    <spot name="ficha250" escena="scene_master2" estado="disponible" html="S2" ath="-114.737" atv="63.506" precio=" " />
-    <spot name="ficha251" escena="scene_master2" estado="disponible" html="S3" ath="-109.150" atv="61.782" precio=" " />
-    <spot name="ficha252" escena="scene_master2" estado="disponible" html="S4" ath="-104.876" atv="59.900" precio=" " />
-    <spot name="ficha253" escena="scene_master2" estado="disponible" html="S5" ath="-101.204" atv="58.071" precio=" " />
-    <spot name="ficha254" escena="scene_master2" estado="disponible" html="S6" ath="-94.770" atv="61.790" precio=" " />
-    <spot name="ficha255" escena="scene_master2" estado="disponible" html="S7" ath="-88.133" atv="63.117" precio=" " />
-    <spot name="ficha256" escena="scene_master2" estado="disponible" html="S8" ath="-81.520" atv="63.893" precio=" " />
-    <spot name="ficha257" escena="scene_master2" estado="disponible" html="S9" ath="-74.437" atv="64.582" precio=" " />
-    <spot name="ficha258" escena="scene_master2" estado="disponible" html="S10" ath="-61.293" atv="62.220" precio=" " />
-    <spot name="ficha259" escena="scene_master2" estado="disponible" html="S11" ath="-60.753" atv="64.964" precio=" " />
-    <spot name="ficha260" escena="scene_master2" estado="disponible" html="S12" ath="-59.803" atv="67.785" precio=" " />
-    <spot name="ficha261" escena="scene_master2" estado="disponible" html="S13" ath="-60.008" atv="70.757" precio=" " />
-    <spot name="ficha262" escena="scene_master2" estado="disponible" html="S14" ath="-58.476" atv="73.885" precio=" " />
-    <spot name="ficha263" escena="scene_master2" estado="disponible" html="S15" ath="-79.735" atv="71.419" precio=" " />
-    <spot name="ficha264" escena="scene_master2" estado="disponible" html="S16" ath="-89.053" atv="70.494" precio=" " />
-    <spot name="ficha265" escena="scene_master2" estado="disponible" html="S17" ath="-97.420" atv="69.238" precio=" " />
-    <spot name="ficha266" escena="scene_master2" estado="disponible" html="S18" ath="-104.888" atv="67.545" precio=" " />
-    <spot name="ficha267" escena="scene_master2" estado="disponible" html="T1" ath="-135.634" atv="43.234" precio=" " />
-    <spot name="ficha268" escena="scene_master2" estado="disponible" html="T2" ath="-130.268" atv="44.710" precio=" " />
-    <spot name="ficha269" escena="scene_master2" estado="disponible" html="T3" ath="-128.172" atv="46.483" precio=" " />
-    <spot name="ficha270" escena="scene_master2" estado="disponible" html="T4" ath="-126.478" atv="48.028" precio=" " />
-    <spot name="ficha271" escena="scene_master2" estado="disponible" html="T5" ath="-124.465" atv="49.717" precio=" " />
-    <spot name="ficha272" escena="scene_master2" estado="disponible" html="T6" ath="-115.503" atv="52.391" precio=" " />
-    <spot name="ficha273" escena="scene_master2" estado="disponible" html="T7" ath="-119.230" atv="53.454" precio=" " />
-    <spot name="ficha274" escena="scene_master2" estado="disponible" html="T8" ath="-123.177" atv="54.832" precio=" " />
-    <spot name="ficha275" escena="scene_master2" estado="disponible" html="T9" ath="-127.673" atv="55.700" precio=" " />
-    <spot name="ficha276" escena="scene_master2" estado="disponible" html="T10" ath="-132.953" atv="56.634" precio=" " />
-    <spot name="ficha277" escena="scene_master2" estado="disponible" html="T11" ath="-133.342" atv="51.792" precio=" " />
-    <spot name="ficha278" escena="scene_master2" estado="disponible" html="T12" ath="-135.185" atv="49.978" precio=" " />
-    <spot name="ficha279" escena="scene_master2" estado="disponible" html="T13" ath="-136.706" atv="48.071" precio=" " />
-    <spot name="ficha280" escena="scene_master2" estado="disponible" html="T14" ath="-138.098" atv="46.255" precio=" " />
-    <spot name="ficha281" escena="scene_master2" estado="disponible" html="U1" ath="-117.415" atv="37.740" precio=" " />
-    <spot name="ficha282" escena="scene_master2" estado="disponible" html="U2" ath="-113.568" atv="39.374" precio=" " />
-    <spot name="ficha283" escena="scene_master2" estado="disponible" html="U3" ath="-110.965" atv="40.430" precio=" " />
-    <spot name="ficha284" escena="scene_master2" estado="disponible" html="U4" ath="-109.071" atv="41.576" precio=" " />
-    <spot name="ficha285" escena="scene_master2" estado="disponible" html="U5" ath="-106.735" atv="42.625" precio=" " />
-    <spot name="ficha286" escena="scene_master2" estado="disponible" html="U6" ath="-99.851" atv="43.264" precio=" " />
-    <spot name="ficha287" escena="scene_master2" estado="disponible" html="U7" ath="-101.918" atv="44.605" precio=" " />
-    <spot name="ficha288" escena="scene_master2" estado="disponible" html="U8" ath="-103.826" atv="46.066" precio=" " />
-    <spot name="ficha289" escena="scene_master2" estado="disponible" html="U9" ath="-106.244" atv="47.227" precio=" " />
-    <spot name="ficha290" escena="scene_master2" estado="disponible" html="U10" ath="-108.759" atv="48.664" precio=" " />
-    <spot name="ficha291" escena="scene_master2" estado="disponible" html="U11" ath="-112.362" atv="45.304" precio=" " />
-    <spot name="ficha292" escena="scene_master2" estado="disponible" html="U12" ath="-114.813" atv="44.124" precio=" " />
-    <spot name="ficha293" escena="scene_master2" estado="disponible" html="U13" ath="-116.995" atv="43.016" precio=" " />
-    <spot name="ficha294" escena="scene_master2" estado="disponible" html="U14" ath="-119.030" atv="41.573" precio=" " />
-    <spot name="ficha295" escena="scene_master2" estado="disponible" html="V1" ath="-94.865" atv="53.376" precio=" " />
-    <spot name="ficha296" escena="scene_master2" estado="disponible" html="V2" ath="-92.514" atv="51.426" precio=" " />
-    <spot name="ficha297" escena="scene_master2" estado="disponible" html="V3" ath="-90.357" atv="49.684" precio=" " />
-    <spot name="ficha298" escena="scene_master2" estado="disponible" html="V4" ath="-88.614" atv="47.901" precio=" " />
-    <spot name="ficha299" escena="scene_master2" estado="disponible" html="V5" ath="-86.907" atv="46.236" precio=" " />
-    <spot name="ficha300" escena="scene_master2" estado="disponible" html="V6" ath="-81.610" atv="48.865" precio=" " />
-    <spot name="ficha301" escena="scene_master2" estado="disponible" html="V7" ath="-77.876" atv="49.195" precio=" " />
-    <spot name="ficha302" escena="scene_master2" estado="disponible" html="V8" ath="-73.779" atv="49.563" precio=" " />
-    <spot name="ficha303" escena="scene_master2" estado="disponible" html="V9" ath="-69.800" atv="49.681" precio=" " />
-    <spot name="ficha304" escena="scene_master2" estado="disponible" html="V10" ath="-62.323" atv="47.746" precio=" " />
-    <spot name="ficha305" escena="scene_master2" estado="disponible" html="V11" ath="-62.000" atv="49.643" precio=" " />
-    <spot name="ficha306" escena="scene_master2" estado="disponible" html="V12" ath="-61.587" atv="51.765" precio=" " />
-    <spot name="ficha307" escena="scene_master2" estado="disponible" html="V13" ath="-61.752" atv="53.995" precio=" " />
-    <spot name="ficha308" escena="scene_master2" estado="disponible" html="V14" ath="-61.768" atv="56.214" precio=" " />
-    <spot name="ficha309" escena="scene_master2" estado="disponible" html="V15" ath="-71.034" atv="55.082" precio=" " />
-    <spot name="ficha310" escena="scene_master2" estado="disponible" html="V16" ath="-76.091" atv="54.715" precio=" " />
-    <spot name="ficha311" escena="scene_master2" estado="disponible" html="V17" ath="-80.442" atv="54.092" precio=" " />
-    <spot name="ficha312" escena="scene_master2" estado="disponible" html="V18" ath="-85.377" atv="53.571" precio=" " />
-    <spot name="ficha313" escena="scene_master2" estado="disponible" html="W1" ath="-42.851" atv="53.766" precio=" " />
-    <spot name="ficha314" escena="scene_master2" estado="disponible" html="W2" ath="-44.475" atv="51.946" precio=" " />
-    <spot name="ficha315" escena="scene_master2" estado="disponible" html="W3" ath="-45.905" atv="49.882" precio=" " />
-    <spot name="ficha316" escena="scene_master2" estado="disponible" html="W4" ath="-46.923" atv="48.087" precio=" " />
-    <spot name="ficha317" escena="scene_master2" estado="disponible" html="W5" ath="-48.199" atv="46.185" precio=" " />
-    <spot name="ficha318" escena="scene_master2" estado="disponible" html="W6" ath="-49.334" atv="44.639" precio=" " />
-    <spot name="ficha319" escena="scene_master2" estado="disponible" html="W7" ath="-31.604" atv="44.981" precio=" " />
-    <spot name="ficha320" escena="scene_master2" estado="disponible" html="W8" ath="-29.260" atv="46.837" precio=" " />
-    <spot name="ficha321" escena="scene_master2" estado="disponible" html="W9" ath="-26.915" atv="48.556" precio=" " />
-    <spot name="ficha322" escena="scene_master2" estado="disponible" html="W10" ath="-35.548" atv="47.768" precio=" " />
-    <spot name="ficha323" escena="scene_master2" estado="disponible" html="W11" ath="-39.170" atv="48.741" precio=" " />
-    <spot name="ficha324" escena="scene_master2" estado="disponible" html="X1" ath="-20.514" atv="43.945" precio=" " />
-    <spot name="ficha325" escena="scene_master2" estado="disponible" html="X2" ath="-13.858" atv="40.986" precio=" " />
-    <spot name="ficha326" escena="scene_master2" estado="disponible" html="X3" ath="-17.039" atv="42.678" precio=" " />
-    <spot name="ficha327" escena="scene_master2" estado="disponible" html="Y1" ath="-84.310" atv="42.785" precio=" " />
-    <spot name="ficha328" escena="scene_master2" estado="disponible" html="Y2" ath="-83.467" atv="41.504" precio=" " />
-    <spot name="ficha329" escena="scene_master2" estado="disponible" html="Y3" ath="-82.494" atv="40.243" precio=" " />
-    <spot name="ficha330" escena="scene_master2" estado="disponible" html="Y4" ath="-81.625" atv="39.027" precio=" " />
-    <spot name="ficha331" escena="scene_master2" estado="disponible" html="Y5" ath="-80.843" atv="37.700" precio=" " />
-    <spot name="ficha332" escena="scene_master2" estado="disponible" html="Y6" ath="-79.644" atv="35.992" precio=" " />
-    <spot name="ficha333" escena="scene_master2" estado="disponible" html="Y7" ath="-62.636" atv="42.801" precio=" " />
-    <spot name="ficha334" escena="scene_master2" estado="disponible" html="Y8" ath="-68.380" atv="41.826" precio=" " />
-    <spot name="ficha335" escena="scene_master2" estado="disponible" html="Y9" ath="-71.467" atv="41.583" precio=" " />
-    <spot name="ficha336" escena="scene_master2" estado="disponible" html="Y10" ath="-74.416" atv="41.414" precio=" " />
-    <spot name="ficha337" escena="scene_master2" estado="disponible" html="Y11" ath="-77.444" atv="41.066" precio=" " />
-    <spot name="ficha338" escena="scene_master2" estado="disponible" html="Z1" ath="-110.370" atv="33.951" precio=" " />
-    <spot name="ficha339" escena="scene_master2" estado="disponible" html="Z2" ath="-88.992" atv="34.662" precio=" " />
-    <spot name="ficha340" escena="scene_master2" estado="disponible" html="Z3" ath="-90.185" atv="35.796" precio=" " />
-    <spot name="ficha341" escena="scene_master2" estado="disponible" html="Z4" ath="-91.561" atv="37.011" precio=" " />    
-    <spot name="ficha342" escena="scene_master2" estado="disponible" html="Z5" ath="-92.821" atv="38.067" precio=" " />
-    <spot name="ficha343" escena="scene_master2" estado="disponible" html="Z6" ath="-94.261" atv="39.266" precio=" " />
-    <spot name="ficha344" escena="scene_master2" estado="disponible" html="Z7" ath="-95.544" atv="40.456" precio=" " />
-    <spot name="ficha345" escena="scene_master2" estado="disponible" html="Z8" ath="-98.178" atv="37.243" precio=" " />
-    <spot name="ficha346" escena="scene_master2" estado="disponible" html="Z9" ath="-100.382" atv="36.482" precio=" " />
-    <spot name="ficha347" escena="scene_master2" estado="disponible" html="Z10" ath="-102.711" atv="35.863" precio=" " />
-    <spot name="ficha348" escena="scene_master2" estado="disponible" html="Z11" ath="-105.076" atv="35.159" precio=" " />
+
+  <!-- VISTA 2-->
+
+
+
+
+
+    <spot name="ficha166" escena="scene_master2" estado="disponible" html="M1" ath="-166.249" atv="57.893" precio=" " />
+    <spot name="ficha167" escena="scene_master2" estado="disponible" html="M2" ath="-161.752" atv="53.357" precio=" " />
+    <spot name="ficha168" escena="scene_master2" estado="disponible" html="M3" ath="-161.427" atv="51.243" precio=" " />
+    <spot name="ficha169" escena="scene_master2" estado="disponible" html="M4" ath="-161.220" atv="49.227" precio=" " />
+    <spot name="ficha170" escena="scene_master2" estado="disponible" html="M5" ath="-161.173" atv="47.046" precio=" " />
+    <spot name="ficha171" escena="scene_master2" estado="disponible" html="M6" ath="-152.082" atv="47.323" precio=" " />
+    <spot name="ficha172" escena="scene_master2" estado="disponible" html="M7" ath="-151.735" atv="49.402" precio=" " />
+    <spot name="ficha173" escena="scene_master2" estado="disponible" html="M8" ath="-151.189" atv="51.320" precio=" " />
+    <spot name="ficha174" escena="scene_master2" estado="disponible" html="M9" ath="-150.838" atv="53.646" precio=" " />
+    <spot name="ficha175" escena="scene_master2" estado="disponible" html="M10" ath="-144.900" atv="57.829" precio=" " />
+    <spot name="ficha176" escena="scene_master2" estado="disponible" html="M11" ath="-150.018" atv="58.220" precio=" " />
+    <spot name="ficha177" escena="scene_master2" estado="disponible" html="M12" ath="-155.492" atv="58.366" precio=" " />
+    <spot name="ficha178" escena="scene_master2" estado="disponible" html="M13" ath="-160.867" atv="58.284" precio=" " />
+    <spot name="ficha179" escena="scene_master2" estado="disponible" html="N1" ath="100.655" atv="85.215" precio=" " />
+    <spot name="ficha180" escena="scene_master2" estado="disponible" html="N2" ath="-177.928" atv="83.946" precio=" " />
+    <spot name="ficha181" escena="scene_master2" estado="disponible" html="N3" ath="-172.102" atv="80.880" precio=" " />
+    <spot name="ficha182" escena="scene_master2" estado="disponible" html="N4" ath="-168.354" atv="77.686" precio=" " />
+    <spot name="ficha183" escena="scene_master2" estado="reservado" html="N5" ath="-166.632" atv="74.431" precio=" " />
+    <spot name="ficha184" escena="scene_master2" estado="reservado" html="N6" ath="-170.959" atv="68.380" precio=" " />
+    <spot name="ficha185" escena="scene_master2" estado="reservado" html="N7" ath="-162.339" atv="68.840" precio="110.000.000" />
+    <spot name="ficha186" escena="scene_master2" estado="reservado" html="N8" ath="-153.628" atv="69.043" precio="102.000.000" />
+    <spot name="ficha187" escena="scene_master2" estado="reservado" html="N9" ath="-145.188" atv="68.835" precio="102.000.000" />
+    <spot name="ficha188" escena="scene_master2" estado="vendido" html="N10" ath="-136.627" atv="68.016" precio="102.000.000" />
+    <spot name="ficha189" escena="scene_master2" estado="vendido" html="N11" ath="-136.387" atv="73.906" precio="73.000.000" />
+    <spot name="ficha190" escena="scene_master2" estado="reservado" html="N12" ath="-130.329" atv="77.213" precio="102.000.000" />
+    <spot name="ficha191" escena="scene_master2" estado="vendido" html="N13" ath="-121.692" atv="79.800" precio="102.000.000" />
+    <spot name="ficha192" escena="scene_master2" estado="vendido" html="N14" ath="-106.789" atv="82.292" precio="102.000.000" />
+    <spot name="ficha193" escena="scene_master2" estado="reservado" html="N15" ath="-54.708" atv="81.169" precio="102.000.000" />
+    <spot name="ficha194" escena="scene_master2" estado="reservado" html="N16" ath="-48.482" atv="84.325" precio="102.000.000" />
+    <spot name="ficha195" escena="scene_master2" estado="reservado" html="N17" ath="-29.302" atv="87.408" precio="102.000.000" />
+    <spot name="ficha196" escena="scene_master2" estado="reservado" html="N18" ath="68.886" atv="88.039" precio="102.000.000" />
+    <spot name="ficha197" escena="scene_master2" estado="vendido" html="O1" ath="30.530" atv="62.604" precio="153.000.000" />
+    <spot name="ficha198" escena="scene_master2" estado="vendido" html="O2" ath="25.917" atv="67.204" precio="144.000.000" />
+    <spot name="ficha199" escena="scene_master2" estado="reservado" html="O3" ath="26.707" atv="70.247" precio=" " />
+    <spot name="ficha200" escena="scene_master2" estado="reservado" html="O4" ath="39.229" atv="75.111" precio=" " />
+    <spot name="ficha201" escena="scene_master2" estado="vendido" html="O5" ath="26.744" atv="75.769" precio="110.000.000" />
+    <spot name="ficha202" escena="scene_master2" estado="vendido" html="O6" ath="12.986" atv="75.449" precio="102.000.000" />
+    <spot name="ficha203" escena="scene_master2" estado="vendido" html="O7" ath="1.566" atv="74.468" precio="102.000.000" />
+    <spot name="ficha204" escena="scene_master2" estado="vendido" html="O8" ath="-8.487" atv="72.867" precio="83.000.000" />
+    <spot name="ficha205" escena="scene_master2" estado="reservado" html="O9" ath="4.751" atv="68.836" precio=" " />
+    <spot name="ficha206" escena="scene_master2" estado="vendido" html="O10" ath="7.166" atv="65.826" precio="135.000.000" />
+    <spot name="ficha207" escena="scene_master2" estado="vendido" html="O11" ath="5.727" atv="61.187" precio="135.000.000" />
+    <spot name="ficha208" escena="scene_master2" estado="vendido" html="O12" ath="11.821" atv="61.858" precio="144.000.000" />
+    <spot name="ficha209" escena="scene_master2" estado="vendido" html="O13" ath="17.760" atv="62.365" precio="102.000.000" />
+    <spot name="ficha210" escena="scene_master2" estado="reservado" html="O14" ath="23.967" atv="62.613" precio="102.000.000" />
+    <spot name="ficha211" escena="scene_master2" estado="vendido" html="P1" ath="23.729" atv="47.412" precio="110.000.000" />
+    <spot name="ficha212" escena="scene_master2" estado="vendido" html="P2" ath="23.915" atv="49.009" precio="95.000.000" />
+    <spot name="ficha213" escena="scene_master2" estado="vendido" html="P3" ath="24.173" atv="50.907" precio="95.000.000" />
+    <spot name="ficha214" escena="scene_master2" estado="vendido" html="P4" ath="24.107" atv="52.939" precio="95.000.000" />
+    <spot name="ficha215" escena="scene_master2" estado="vendido" html="P5" ath="24.241" atv="55.074" precio="102.000.000" />
+    <spot name="ficha216" escena="scene_master2" estado="reservado" html="P6" ath="12.720" atv="54.394" precio="95.000.000" />
+    <spot name="ficha217" escena="scene_master2" estado="reservado" html="P7" ath="13.553" atv="51.982" precio="95.000.000" />
+    <spot name="ficha218" escena="scene_master2" estado="vendido" html="P8" ath="14.186" atv="50.085" precio="95.000.000" />
+    <spot name="ficha219" escena="scene_master2" estado="vendido" html="P9" ath="14.472" atv="48.246" precio="102.000.000" />
+    <spot name="ficha220" escena="scene_master2" estado="vendido" html="P10" ath="14.870" atv="46.696" precio="102.000.000" />
+    <spot name="ficha221" escena="scene_master2" estado="vendido" html="Q1" ath="2.514" atv="44.532" precio="95.000.000" />
+    <spot name="ficha222" escena="scene_master2" estado="reservado" html="Q2" ath="1.446" atv="46.098" precio="95.000.000" />
+    <spot name="ficha223" escena="scene_master2" estado="vendido" html="Q3" ath="0.085" atv="47.608" precio="95.000.000" />
+    <spot name="ficha224" escena="scene_master2" estado="vendido" html="Q4" ath="-1.515" atv="49.288" precio="99.000.000" />
+    <spot name="ficha225" escena="scene_master2" estado="disponible" html="Q5" ath="-3.339" atv="51.187" precio=" " />
+    <spot name="ficha226" escena="scene_master2" estado="disponible" html="Q6" ath="-11.597" atv="48.366" precio=" " />
+    <spot name="ficha227" escena="scene_master2" estado="disponible" html="Q7" ath="-9.269" atv="46.811" precio=" " />
+    <spot name="ficha228" escena="scene_master2" estado="disponible" html="Q8" ath="-7.242" atv="45.298" precio=" " />
+    <spot name="ficha229" escena="scene_master2" estado="disponible" html="Q9" ath="-5.890" atv="43.906" precio=" " />
+    <spot name="ficha230" escena="scene_master2" estado="disponible" html="Q10" ath="-4.149" atv="42.669" precio=" " />
+    <spot name="ficha231" escena="scene_master2" estado="disponible" html="R1" ath="-5.919" atv="58.221" precio=" " />
+    <spot name="ficha232" escena="scene_master2" estado="disponible" html="R2" ath="-14.898" atv="60.583" precio=" " />
+    <spot name="ficha233" escena="scene_master2" estado="disponible" html="R3" ath="-18.951" atv="62.526" precio=" " />
+    <spot name="ficha234" escena="scene_master2" estado="disponible" html="R4" ath="-23.522" atv="67.929" precio=" " />
+    <spot name="ficha235" escena="scene_master2" estado="disponible" html="R5" ath="-28.831" atv="65.759" precio=" " />
+    <spot name="ficha236" escena="scene_master2" estado="disponible" html="R6" ath="-32.746" atv="63.668" precio=" " />
+    <spot name="ficha237" escena="scene_master2" estado="disponible" html="R7" ath="-36.375" atv="61.272" precio=" " />
+    <spot name="ficha238" escena="scene_master2" estado="disponible" html="R8" ath="-38.898" atv="58.964" precio=" " />
+    <spot name="ficha239" escena="scene_master2" estado="disponible" html="R9" ath="-28.031" atv="58.077" precio=" " />
+    <spot name="ficha240" escena="scene_master2" estado="disponible" html="R10" ath="-23.841" atv="56.362" precio=" " />
+    <spot name="ficha241" escena="scene_master2" estado="disponible" html="R11" ath="-20.841" atv="52.231" precio=" " />
+    <spot name="ficha242" escena="scene_master2" estado="disponible" html="R12" ath="-17.682" atv="53.710" precio=" " />
+    <spot name="ficha243" escena="scene_master2" estado="disponible" html="R13" ath="-14.040" atv="55.320" precio=" " />
+    <spot name="ficha244" escena="scene_master2" estado="disponible" html="R14" ath="-10.443" atv="56.823" precio=" " />
+    <spot name="ficha245" escena="scene_master2" estado="disponible" html="S1" ath="-57.702" atv="73.624" precio=" " />
+    <spot name="ficha246" escena="scene_master2" estado="disponible" html="S2" ath="-79.937" atv="71.664" precio=" " />
+    <spot name="ficha247" escena="scene_master2" estado="disponible" html="S3" ath="-89.772" atv="70.799" precio=" " />
+    <spot name="ficha248" escena="scene_master2" estado="disponible" html="S4" ath="-97.993" atv="69.640" precio=" " />
+    <spot name="ficha249" escena="scene_master2" estado="disponible" html="S5" ath="-105.655" atv="67.733" precio=" " />
+    <spot name="ficha250" escena="scene_master2" estado="disponible" html="S6" ath="-120.020" atv="65.392" precio=" " />
+    <spot name="ficha251" escena="scene_master2" estado="disponible" html="S7" ath="-114.399" atv="63.650" precio=" " />
+    <spot name="ficha252" escena="scene_master2" estado="disponible" html="S8" ath="-109.631" atv="61.786" precio=" " />
+    <spot name="ficha253" escena="scene_master2" estado="disponible" html="S9" ath="-105.425" atv="59.883" precio=" " />
+    <spot name="ficha254" escena="scene_master2" estado="disponible" html="S10" ath="-101.473" atv="57.825" precio=" " />
+    <spot name="ficha255" escena="scene_master2" estado="disponible" html="S11" ath="-94.561" atv="61.800" precio=" " />
+    <spot name="ficha256" escena="scene_master2" estado="disponible" html="S12" ath="-88.477" atv="62.867" precio=" " />
+    <spot name="ficha257" escena="scene_master2" estado="disponible" html="S13" ath="-81.552" atv="63.809" precio=" " />
+    <spot name="ficha258" escena="scene_master2" estado="disponible" html="S14" ath="-74.716" atv="64.329" precio=" " />
+    <spot name="ficha259" escena="scene_master2" estado="disponible" html="S15" ath="-60.934" atv="62.216" precio=" " />
+    <spot name="ficha260" escena="scene_master2" estado="disponible" html="S16" ath="-59.855" atv="64.814" precio=" " />
+    <spot name="ficha261" escena="scene_master2" estado="disponible" html="S17" ath="-59.012" atv="67.778" precio=" " />
+    <spot name="ficha262" escena="scene_master2" estado="disponible" html="S18" ath="-58.458" atv="70.648" precio=" " />
+    <spot name="ficha263" escena="scene_master2" estado="disponible" html="T1" ath="-132.709" atv="56.645" precio=" " />
+    <spot name="ficha264" escena="scene_master2" estado="disponible" html="T2" ath="-134.005" atv="51.969" precio=" " />
+    <spot name="ficha265" escena="scene_master2" estado="disponible" html="T3" ath="-135.562" atv="50.017" precio=" " />
+    <spot name="ficha266" escena="scene_master2" estado="disponible" html="T4" ath="-137.009" atv="48.237" precio=" " />
+    <spot name="ficha267" escena="scene_master2" estado="disponible" html="T5" ath="-138.320" atv="46.297" precio=" " />
+    <spot name="ficha268" escena="scene_master2" estado="disponible" html="T6" ath="-130.247" atv="44.723" precio=" " />
+    <spot name="ficha269" escena="scene_master2" estado="disponible" html="T7" ath="-128.392" atv="46.425" precio=" " />
+    <spot name="ficha270" escena="scene_master2" estado="disponible" html="T8" ath="-126.398" atv="48.069" precio=" " />
+    <spot name="ficha271" escena="scene_master2" estado="disponible" html="T9" ath="-124.249" atv="49.742" precio=" " />
+    <spot name="ficha272" escena="scene_master2" estado="disponible" html="T10" ath="-116.139" atv="51.890" precio=" " />
+    <spot name="ficha273" escena="scene_master2" estado="disponible" html="T11" ath="-119.587" atv="53.367" precio=" " />
+    <spot name="ficha274" escena="scene_master2" estado="disponible" html="T12" ath="-123.320" atv="54.559" precio=" " />
+    <spot name="ficha275" escena="scene_master2" estado="disponible" html="T13" ath="-127.673" atv="55.700" precio=" " />
+    <spot name="ficha276" escena="scene_master2" estado="disponible" html="U1" ath="-108.617" atv="48.833" precio=" " />
+    <spot name="ficha277" escena="scene_master2" estado="disponible" html="U2" ath="-112.541" atv="45.445" precio=" " />
+    <spot name="ficha278" escena="scene_master2" estado="disponible" html="U3" ath="-114.920" atv="44.229" precio=" " />
+    <spot name="ficha279" escena="scene_master2" estado="disponible" html="U4" ath="-117.050" atv="42.978" precio=" " />
+    <spot name="ficha280" escena="scene_master2" estado="disponible" html="U5" ath="-119.114" atv="41.548" precio=" " />
+    <spot name="ficha281" escena="scene_master2" estado="disponible" html="U6" ath="-113.128" atv="39.237" precio=" " />
+    <spot name="ficha282" escena="scene_master2" estado="disponible" html="U7" ath="-110.971" atv="40.284" precio=" " />
+    <spot name="ficha283" escena="scene_master2" estado="disponible" html="U8" ath="-108.651" atv="41.307" precio=" " />
+    <spot name="ficha284" escena="scene_master2" estado="disponible" html="U9" ath="-106.182" atv="42.336" precio=" " />
+    <spot name="ficha285" escena="scene_master2" estado="disponible" html="U10" ath="-99.630" atv="43.214" precio=" " />
+    <spot name="ficha286" escena="scene_master2" estado="disponible" html="U11" ath="-101.832" atv="44.718" precio=" " />
+    <spot name="ficha287" escena="scene_master2" estado="disponible" html="U12" ath="-103.856" atv="45.994" precio=" " />
+    <spot name="ficha288" escena="scene_master2" estado="disponible" html="U13" ath="-105.860" atv="47.395" precio=" " />
+    <spot name="ficha289" escena="scene_master2" estado="disponible" html="V1" ath="-61.479" atv="56.227" precio=" " />
+    <spot name="ficha290" escena="scene_master2" estado="disponible" html="V2" ath="-71.204" atv="54.745" precio=" " />
+    <spot name="ficha291" escena="scene_master2" estado="disponible" html="V3" ath="-76.013" atv="54.569" precio=" " />
+    <spot name="ficha292" escena="scene_master2" estado="disponible" html="V4" ath="-80.753" atv="54.193" precio=" " />
+    <spot name="ficha293" escena="scene_master2" estado="disponible" html="V5" ath="-85.277" atv="53.468" precio=" " />
+    <spot name="ficha294" escena="scene_master2" estado="disponible" html="V6" ath="-94.847" atv="53.415" precio=" " />
+    <spot name="ficha295" escena="scene_master2" estado="disponible" html="V7" ath="-92.715" atv="51.623" precio=" " />
+    <spot name="ficha296" escena="scene_master2" estado="disponible" html="V8" ath="-90.968" atv="49.662" precio=" " />
+    <spot name="ficha297" escena="scene_master2" estado="disponible" html="V9" ath="-89.206" atv="47.957" precio=" " />
+    <spot name="ficha298" escena="scene_master2" estado="disponible" html="V10" ath="-87.372" atv="46.242" precio=" " />
+    <spot name="ficha299" escena="scene_master2" estado="disponible" html="V11" ath="-81.891" atv="48.588" precio=" " />
+    <spot name="ficha300" escena="scene_master2" estado="disponible" html="V12" ath="-77.733" atv="49.078" precio=" " />
+    <spot name="ficha301" escena="scene_master2" estado="disponible" html="V13" ath="-73.603" atv="49.326" precio=" " />
+    <spot name="ficha302" escena="scene_master2" estado="disponible" html="V14" ath="-69.912" atv="49.260" precio=" " />
+    <spot name="ficha303" escena="scene_master2" estado="disponible" html="V15" ath="-62.585" atv="47.740" precio=" " />
+    <spot name="ficha304" escena="scene_master2" estado="disponible" html="V16" ath="-62.512" atv="49.751" precio=" " />
+    <spot name="ficha305" escena="scene_master2" estado="disponible" html="V17" ath="-62.322" atv="51.692" precio=" " />
+    <spot name="ficha306" escena="scene_master2" estado="disponible" html="V18" ath="-61.974" atv="53.928" precio=" " />
+    <spot name="ficha307" escena="scene_master2" estado="disponible" html="W1" ath="-26.923" atv="48.571" precio=" " />
+    <spot name="ficha308" escena="scene_master2" estado="disponible" html="W2" ath="-35.690" atv="47.769" precio=" " />
+    <spot name="ficha309" escena="scene_master2" estado="disponible" html="W3" ath="-39.418" atv="48.854" precio=" " />
+    <spot name="ficha310" escena="scene_master2" estado="disponible" html="W4" ath="-43.248" atv="53.941" precio=" " />
+    <spot name="ficha311" escena="scene_master2" estado="disponible" html="W5" ath="-44.909" atv="51.980" precio=" " />
+    <spot name="ficha312" escena="scene_master2" estado="disponible" html="W6" ath="-46.093" atv="49.995" precio=" " />
+    <spot name="ficha313" escena="scene_master2" estado="disponible" html="W7" ath="-47.317" atv="48.149" precio=" " />
+    <spot name="ficha314" escena="scene_master2" estado="disponible" html="W8" ath="-48.407" atv="46.336" precio=" " />
+    <spot name="ficha315" escena="scene_master2" estado="disponible" html="W9" ath="-49.403" atv="44.501" precio=" " />
+    <spot name="ficha316" escena="scene_master2" estado="disponible" html="W10" ath="-31.750" atv="44.981" precio=" " />
+    <spot name="ficha317" escena="scene_master2" estado="disponible" html="W11" ath="-28.947" atv="46.979" precio=" " />
+    <spot name="ficha318" escena="scene_master2" estado="disponible" html="X1" ath="-20.335" atv="43.870" precio=" " />
+    <spot name="ficha319" escena="scene_master2" estado="disponible" html="X2" ath="-13.501" atv="41.111" precio=" " />
+    <spot name="ficha320" escena="scene_master2" estado="disponible" html="X3" ath="-17.429" atv="42.654" precio=" " />
+    <spot name="ficha321" escena="scene_master2" estado="disponible" html="Y1" ath="-63.337" atv="42.772" precio=" " />
+    <spot name="ficha322" escena="scene_master2" estado="disponible" html="Y2" ath="-68.383" atv="42.114" precio=" " />
+    <spot name="ficha323" escena="scene_master2" estado="disponible" html="Y3" ath="-71.480" atv="41.611" precio=" " />
+    <spot name="ficha324" escena="scene_master2" estado="disponible" html="Y4" ath="-74.157" atv="41.155" precio=" " />
+    <spot name="ficha325" escena="scene_master2" estado="disponible" html="Y5" ath="-77.463" atv="40.608" precio=" " />
+    <spot name="ficha326" escena="scene_master2" estado="disponible" html="Y6" ath="-84.444" atv="42.810" precio=" " />
+    <spot name="ficha327" escena="scene_master2" estado="disponible" html="Y7" ath="-83.769" atv="41.573" precio=" " />
+    <spot name="ficha328" escena="scene_master2" estado="disponible" html="Y8" ath="-82.796" atv="40.203" precio=" " />
+    <spot name="ficha329" escena="scene_master2" estado="disponible" html="Y9" ath="-82.017" atv="38.934" precio=" " />
+    <spot name="ficha330" escena="scene_master2" estado="disponible" html="Y10" ath="-81.126" atv="37.741" precio=" " />
+    <spot name="ficha331" escena="scene_master2" estado="disponible" html="Y11" ath="-80.106" atv="36.016" precio=" " />
+    <spot name="ficha332" escena="scene_master2" estado="disponible" html="Z1" ath="-95.721" atv="40.306" precio=" " />
+    <spot name="ficha333" escena="scene_master2" estado="disponible" html="Z2" ath="-98.024" atv="37.234" precio=" " />
+    <spot name="ficha334" escena="scene_master2" estado="disponible" html="Z3" ath="-100.282" atv="36.557" precio=" " />
+    <spot name="ficha335" escena="scene_master2" estado="disponible" html="Z4" ath="-102.731" atv="35.992" precio=" " />
+    <spot name="ficha336" escena="scene_master2" estado="disponible" html="Z5" ath="-104.958" atv="35.146" precio=" " />
+    <spot name="ficha337" escena="scene_master2" estado="disponible" html="Z6" ath="-89.208" atv="34.676" precio=" " />
+    <spot name="ficha338" escena="scene_master2" estado="disponible" html="Z7" ath="-90.552" atv="35.677" precio=" " />
+    <spot name="ficha339" escena="scene_master2" estado="disponible" html="Z8" ath="-91.600" atv="36.848" precio=" " />
+    <spot name="ficha340" escena="scene_master2" estado="disponible" html="Z9" ath="-92.881" atv="37.969" precio=" " />
+    <spot name="ficha341" escena="scene_master2" estado="disponible" html="Z10" ath="-94.215" atv="38.951" precio=" " />    
+
+
+
+
+
 
 </krpano>

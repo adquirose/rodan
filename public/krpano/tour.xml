@@ -162,9 +162,9 @@
 		<hotspot name="hito18" style="skin_hotspotstyle4" url="skin/spots/es.png" ath="175.613" atv="4.858"/>
 
 		<hotspot name="vista1" handcursor="true" zorder="50" style="animation-hotspot" url="skin/spots/spot0.png" onclick="looktohotspot(vista1, 70, tween(easeOutQuad,3));loadscene(scene_master, null, MERGE, BLEND(1));" onhover="showtext(Ver Masterplan 360º Vista 1);" ath="106.809" atv="49.396"/>
-		<hotspot name="mz3" style="manzana" html="14" ath="18.742" atv="50.634"/>
+		<hotspot name="mz3" style="manzana" html="16" ath="18.742" atv="50.634"/>
 		<hotspot name="mz4" style="manzana" html="15" ath="16.446" atv="68.632"/>
-		<hotspot name="mz5" style="manzana" html="16" ath="-148.113" atv="79.889"/>
+		<hotspot name="mz5" style="manzana" html="14" ath="-148.113" atv="79.889"/>
 	</scene>
 
 
